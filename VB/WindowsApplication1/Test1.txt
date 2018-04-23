@@ -1,0 +1,39 @@
+Simply No Equal in the Component Marketplace ---- Guaranteed!
+
+At Developer Express, we know you have many choices when it comes to acquiring component technologies...
+From monolithic packages that promise everything under the sun, to small component libraries that address a very narrow need. 
+With so many options available, you might ask yourself why should you consider purchasing a component from Developer Express 
+- certainly a component whose name implies only a single control... Well, don't let the name of this suite fool you - 
+the XtraGrid Suite, is far more than just a grid control. And even more important, 
+if you are committed to delivering top notch features to your customers and want the most capable component 
+library of its kind on the market today, you must include the XtraGrid Suite in your development arsenal.
+
+An Evolutionary Leap Forward
+
+Developer Express was the very first component vendor to ship .NET Framework components -
+ we were the very first to offer FULL SOURCE CODE to all of our component technologies. 
+In several years since we released the first version of the XtraGrid Suite, our focus has 
+been to deliver ground-breaking new capabilities for Visual Studio .NET. With XtraGrid Suite, 
+you have at your disposal a complete range of UI components specifically designed to give you the necessary flexibility 
+and feature-set to deliver solutions that exceed end-user expectation, each and every time.
+
+Uncompromising Capabilities
+
+From cards and carousels to master-detail support...from our shared data editors 
+library to ultra fast data loading...The XtraGrid Suite remains unrivaled in the .NET Framework landscape. 
+Grids and editors are at the heart of most major applications and choosing the best available library is critical
+ to the success of any such project - both in terms of time to market and end user experience. 
+Give the XtraGrid Suite a try and see for yourself - if it is not the best and most comprehensive product library of its kind, 
+return it to us within the first 60 days from purchase for an UNCONDITIONAL no questions asked refund!
+
+FULL SOURCE CODE IS AVAILABLE!
+
+The XtraGrid is written in C# and built ONLY on .NET classes so it is a 100% managed control and ships with full source code, 
+including design-time code. We ask that you be the judge... Review these pages and the product and decide for yourself. 
+If you plan on using Visual Studio® .NET, we think the XtraGrid can be a key ingredient in your ability 
+to deliver projects on-time and on-budget.
+
+Total Control, Flexibility and Power
+The Only No Limits Grid, and Editors Library Available for .NET
+
+Learn more about the XtraGrid Suite....
